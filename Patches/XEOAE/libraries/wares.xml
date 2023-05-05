@@ -1,192 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <diff>
-  <replace sel="/wares/ware[@id='weapon_auto_gun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="27" />
-      <ware ware="energycells" amount="9" />
-      <ware ware="fusionbatteries" amount="16" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_heavy_auto_gun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="45" />
-      <ware ware="energycells" amount="14" />
-      <ware ware="fusionbatteries" amount="27" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_main_auto_gun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="75" />
-      <ware ware="energycells" amount="28" />
-      <ware ware="fusionbatteries" amount="49" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_flack_autogun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="45" />
-      <ware ware="energycells" amount="14" />
-      <ware ware="fusionbatteries" amount="27" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_flack_autogun_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="45" />
-      <ware ware="energycells" amount="14" />
-      <ware ware="fusionbatteries" amount="27" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_flack_autocannon_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="75" />
-      <ware ware="energycells" amount="21" />
-      <ware ware="fusionbatteries" amount="55" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_photon_gun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="45" />
-      <ware ware="energycells" amount="21" />
-      <ware ware="fusionbatteries" amount="22" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_photon_autogun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="75" />
-      <ware ware="energycells" amount="36" />
-      <ware ware="fusionbatteries" amount="41" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_photon_cannon_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="105" />
-      <ware ware="energycells" amount="50" />
-      <ware ware="fusionbatteries" amount="55" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_photon_autogun_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="90" />
-      <ware ware="energycells" amount="43" />
-      <ware ware="fusionbatteries" amount="44" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_photon_autogun_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="90" />
-      <ware ware="energycells" amount="43" />
-      <ware ware="fusionbatteries" amount="44" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_photon_cannon_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="120" />
-      <ware ware="energycells" amount="57" />
-      <ware ware="fusionbatteries" amount="74" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_gatling_mk3']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="45" />
-      <ware ware="energycells" amount="14" />
-      <ware ware="fusionbatteries" amount="19" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_heavy_gatling_mk3']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="60" />
-      <ware ware="energycells" amount="28" />
-      <ware ware="fusionbatteries" amount="35" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='weapon_main_gatling_mk1']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="90" />
-      <ware ware="energycells" amount="36" />
-      <ware ware="fusionbatteries" amount="52" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_gatling_01_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="75" />
-      <ware ware="energycells" amount="36" />
-      <ware ware="fusionbatteries" amount="38" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_gatling_02_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="75" />
-      <ware ware="energycells" amount="36" />
-      <ware ware="fusionbatteries" amount="38" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='turret_heavy_gatling_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="105" />
-      <ware ware="energycells" amount="50" />
-      <ware ware="fusionbatteries" amount="60" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='shield_s_standard_mk4']/production[@method='default']/primary">
-    <primary>
-      <ware ware="energycells" amount="43" />
-      <ware ware="fusionbatteries" amount="16" />
-      <ware ware="aicores" amount="45" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='shield_m_standard_01_mk4']/production[@method='default']/primary">
-    <primary>
-      <ware ware="energycells" amount="71" />
-      <ware ware="fusionbatteries" amount="27" />
-      <ware ware="aicores" amount="75" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='shield_m_standard_02_mk4']/production[@method='default']/primary">
-    <primary>
-      <ware ware="energycells" amount="71" />
-      <ware ware="fusionbatteries" amount="27" />
-      <ware ware="aicores" amount="75" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='shield_l_standard_mk4']/production[@method='default']/primary">
-    <primary>
-      <ware ware="energycells" amount="99" />
-      <ware ware="fusionbatteries" amount="38" />
-      <ware ware="aicores" amount="105" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='shield_xl_standard_mk3']/production[@method='default']/primary">
-    <primary>
-      <ware ware="energycells" amount="284" />
-      <ware ware="fusionbatteries" amount="164" />
-      <ware ware="aicores" amount="450" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='engine_s_combat_mk4']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="75" />
-      <ware ware="energycells" amount="71" />
-      <ware ware="fusionbatteries" amount="27" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='engine_m_combat_mk4']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="150" />
-      <ware ware="energycells" amount="106" />
-      <ware ware="fusionbatteries" amount="55" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='engine_l_allround_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="225" />
-      <ware ware="energycells" amount="142" />
-      <ware ware="fusionbatteries" amount="82" />
-    </primary>
-  </replace>
-  <replace sel="/wares/ware[@id='engine_xl_allround_mk2']/production[@method='default']/primary">
-    <primary>
-      <ware ware="aicores" amount="300" />
-      <ware ware="energycells" amount="178" />
-      <ware ware="fusionbatteries" amount="109" />
-    </primary>
-  </replace>
+   <replace sel="/wares/ware[@id='weapon_auto_gun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="27" />
+         <ware ware="energycells" amount="9" />
+         <ware ware="fusionbatteries" amount="16" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_heavy_auto_gun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="45" />
+         <ware ware="energycells" amount="14" />
+         <ware ware="fusionbatteries" amount="27" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_main_auto_gun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="75" />
+         <ware ware="energycells" amount="28" />
+         <ware ware="fusionbatteries" amount="49" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_flack_autogun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="45" />
+         <ware ware="energycells" amount="14" />
+         <ware ware="fusionbatteries" amount="27" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_flack_autogun_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="45" />
+         <ware ware="energycells" amount="14" />
+         <ware ware="fusionbatteries" amount="27" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_flack_autocannon_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="75" />
+         <ware ware="energycells" amount="21" />
+         <ware ware="fusionbatteries" amount="55" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_photon_gun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="45" />
+         <ware ware="energycells" amount="21" />
+         <ware ware="fusionbatteries" amount="22" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_photon_autogun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="75" />
+         <ware ware="energycells" amount="36" />
+         <ware ware="fusionbatteries" amount="41" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_photon_cannon_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="105" />
+         <ware ware="energycells" amount="50" />
+         <ware ware="fusionbatteries" amount="55" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_photon_autogun_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="90" />
+         <ware ware="energycells" amount="43" />
+         <ware ware="fusionbatteries" amount="44" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_photon_autogun_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="90" />
+         <ware ware="energycells" amount="43" />
+         <ware ware="fusionbatteries" amount="44" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_photon_cannon_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="120" />
+         <ware ware="energycells" amount="57" />
+         <ware ware="fusionbatteries" amount="74" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_gatling_mk3']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="45" />
+         <ware ware="energycells" amount="14" />
+         <ware ware="fusionbatteries" amount="19" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_heavy_gatling_mk3']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="60" />
+         <ware ware="energycells" amount="28" />
+         <ware ware="fusionbatteries" amount="35" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='weapon_main_gatling_mk1']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="90" />
+         <ware ware="energycells" amount="36" />
+         <ware ware="fusionbatteries" amount="52" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_gatling_01_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="75" />
+         <ware ware="energycells" amount="36" />
+         <ware ware="fusionbatteries" amount="38" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_gatling_02_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="75" />
+         <ware ware="energycells" amount="36" />
+         <ware ware="fusionbatteries" amount="38" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='turret_heavy_gatling_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="105" />
+         <ware ware="energycells" amount="50" />
+         <ware ware="fusionbatteries" amount="60" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='shield_s_standard_mk4']/production[@method='default']/primary">
+      <primary>
+         <ware ware="energycells" amount="500" />
+         <ware ware="forcefieldunits" amount="50" />
+         <ware ware="computronicsubstrate" amount="25" />
+         <ware ware="aicores" amount="15" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='shield_m_standard_01_mk4']/production[@method='default']/primary">
+      <primary>
+         <ware ware="energycells" amount="2500" />
+         <ware ware="forcefieldunits" amount="200" />
+         <ware ware="computronicsubstrate" amount="40" />
+         <ware ware="aicores" amount="30" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='shield_m_standard_02_mk4']/production[@method='default']/primary">
+      <primary>
+         <ware ware="energycells" amount="5000" />
+         <ware ware="forcefieldunits" amount="500" />
+         <ware ware="computronicsubstrate" amount="60" />
+         <ware ware="aicores" amount="90" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='shield_l_standard_mk4']/production[@method='default']/primary">
+      <primary>
+         <ware ware="energycells" amount="5000" />
+         <ware ware="forcefieldunits" amount="500" />
+         <ware ware="computronicsubstrate" amount="60" />
+         <ware ware="aicores" amount="90" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='shield_xl_standard_mk3']/production[@method='default']/primary">
+      <primary>
+         <ware ware="energycells" amount="7500" />
+         <ware ware="forcefieldunits" amount="750" />
+         <ware ware="computronicsubstrate" amount="80" />
+         <ware ware="aicores" amount="200" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='engine_s_combat_mk4']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="30" />
+         <ware ware="energycells" amount="500" />
+         <ware ware="metallicmicrolattice" amount="250" />
+         <ware ware="fusionbatteries" amount="250" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='engine_m_combat_mk4']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="50" />
+         <ware ware="energycells" amount="1000" />
+         <ware ware="metallicmicrolattice" amount="500" />
+         <ware ware="fusionbatteries" amount="500" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='engine_l_allround_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="120" />
+         <ware ware="energycells" amount="15000" />
+         <ware ware="metallicmicrolattice" amount="7500" />
+         <ware ware="fusionbatteries" amount="7500" />
+      </primary>
+   </replace>
+   <replace sel="/wares/ware[@id='engine_xl_allround_mk2']/production[@method='default']/primary">
+      <primary>
+         <ware ware="aicores" amount="250" />
+         <ware ware="energycells" amount="32000" />
+         <ware ware="metallicmicrolattice" amount="15000" />
+         <ware ware="fusionbatteries" amount="15000" />
+      </primary>
+   </replace>
 </diff>
