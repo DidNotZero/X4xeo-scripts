@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='scimitar_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="21015" />
+      <ware ware="metallicmicrolattice" amount="21328" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='weapon_ter_scimitar_plasma_l_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="150" />
+      <ware ware="energycells" amount="426" />
+      <ware ware="fusionbatteries" amount="55" />
+      <ware ware="siliconcarbide" amount="200" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='weapon_ter_scimitar_beam_l_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="150" />
+      <ware ware="energycells" amount="710" />
+      <ware ware="fusionbatteries" amount="65" />
+      <ware ware="siliconcarbide" amount="247" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='paramerion_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="876" />
+      <ware ware="metallicmicrolattice" amount="635" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='valkyrie_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="63434" />
+      <ware ware="metallicmicrolattice" amount="75620" />
+      <ware ware="siliconcarbide" amount="2100" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='fenrir_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="27734" />
+      <ware ware="metallicmicrolattice" amount="28272" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='claymore_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="5350" />
+      <ware ware="metallicmicrolattice" amount="12400" />
+    </primary>
+  </replace>
+</diff>

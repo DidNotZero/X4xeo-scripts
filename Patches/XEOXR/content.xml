@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content id="XEOXR" name="X4 Economy Overhaul+XR ShipPack Patch" description="Changes the build materials of terran XR ships." author="sindsieecht" version="1" date="2023-04-21" save="0" enabled="1">
+  <dependency id="ws_2446450765" optional="true" name="X4 Economy Overhaul" />
+  <dependency id="ws_1905655811" optional="true" name="XR ShipPack" />
+  <text language="7" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="33" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="34" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="39" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="44" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="45" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="49" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="81" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="82" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="86" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+  <text language="88" name="XEOXR" description="Changes the build materials of terran XR ships." author="sindsieecht" />
+</content>

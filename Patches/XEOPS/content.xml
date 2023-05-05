@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="XEOPS" name="X4 Economy Overhaul+Refurbished Terran Ship PS Patch" description="Changes the build materials of PS ships." author="sindsieecht" version="1" date="2023-04-21" save="0" enabled="1">
+  <dependency id="ws_2446450765" optional="true" name="X4 Economy Overhaul"></dependency>
+  <dependency id="ws_2905046791" optional="true" name="Refurbished Terran Ship PS"></dependency>
+  <text language="7" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="33" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="34" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="39" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="44" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="45" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="49" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="81" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="82" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="86" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+  <text language="88" name="XEOPS" description="Changes the build materials of PS ships." author="sindsieecht" />
+</content>

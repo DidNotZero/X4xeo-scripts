@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='turret_ter_l_devastatorcannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="38" />
+      <ware ware="siliconcarbide" amount="9" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_gausscannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="24" />
+      <ware ware="energycells" amount="213" />
+      <ware ware="fusionbatteries" amount="60" />
+      <ware ware="siliconcarbide" amount="16" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_hellborecannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="24" />
+      <ware ware="energycells" amount="213" />
+      <ware ware="fusionbatteries" amount="60" />
+      <ware ware="siliconcarbide" amount="16" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_hephaestusassaultgun']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="142" />
+      <ware ware="fusionbatteries" amount="42" />
+      <ware ware="siliconcarbide" amount="11" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_marklxautocannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="178" />
+      <ware ware="fusionbatteries" amount="53" />
+      <ware ware="siliconcarbide" amount="13" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_mjolnircannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="156" />
+      <ware ware="fusionbatteries" amount="40" />
+      <ware ware="siliconcarbide" amount="9" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_stormneedler']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="124" />
+      <ware ware="fusionbatteries" amount="37" />
+      <ware ware="siliconcarbide" amount="8" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_autopulselaser']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="159" />
+      <ware ware="fusionbatteries" amount="44" />
+      <ware ware="siliconcarbide" amount="11" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_highintencitylaser']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="24" />
+      <ware ware="energycells" amount="237" />
+      <ware ware="fusionbatteries" amount="49" />
+      <ware ware="siliconcarbide" amount="13" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_paladinpdsystem']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="126" />
+      <ware ware="fusionbatteries" amount="37" />
+      <ware ware="siliconcarbide" amount="8" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_plasmacannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="156" />
+      <ware ware="fusionbatteries" amount="40" />
+      <ware ware="siliconcarbide" amount="11" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_tachyonlance']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="21" />
+      <ware ware="energycells" amount="176" />
+      <ware ware="fusionbatteries" amount="47" />
+      <ware ware="siliconcarbide" amount="15" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='weapon_ter_l_thermalpulsecannon']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="420" />
+      <ware ware="energycells" amount="284" />
+      <ware ware="fusionbatteries" amount="327" />
+      <ware ware="siliconcarbide" amount="181" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_gravitonbeam_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="163" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_gravitonbeam_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="163" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyblaster_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="156" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyblaster_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="156" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyburstlaser_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="128" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyburstlaser_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="128" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_ionbeam_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="190" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_ionbeam_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="190" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_ionpulser_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="148" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_ionpulser_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="148" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_miningblaster_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="121" />
+      <ware ware="fusionbatteries" amount="17" />
+      <ware ware="siliconcarbide" amount="3" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_miningblaster_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="121" />
+      <ware ware="fusionbatteries" amount="17" />
+      <ware ware="siliconcarbide" amount="3" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_phaselance_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="22" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_phaselance_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="22" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_pulselaser_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="122" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="3" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_pulselaser_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="122" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="3" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_arbalestautocannon_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="128" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="1" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_arbalestautocannon_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="128" />
+      <ware ware="fusionbatteries" amount="19" />
+      <ware ware="siliconcarbide" amount="1" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_assaultchaingun_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="114" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="1" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_assaultchaingun_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="114" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="1" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_dualflakcannon_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="156" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_dualflakcannon_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="156" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="5" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_flakcannon_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="142" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_flakcannon_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="15" />
+      <ware ware="energycells" amount="142" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyautocannon_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="22" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyautocannon_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="22" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavymachinegun_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="111" />
+      <ware ware="fusionbatteries" amount="18" />
+      <ware ware="siliconcarbide" amount="3" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavymachinegun_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="9" />
+      <ware ware="energycells" amount="111" />
+      <ware ware="fusionbatteries" amount="18" />
+      <ware ware="siliconcarbide" amount="3" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavymauler_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="149" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavymauler_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="149" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavymortar_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="135" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavymortar_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="135" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyneedler_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="142" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_heavyneedler_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="142" />
+      <ware ware="fusionbatteries" amount="20" />
+      <ware ware="siliconcarbide" amount="4" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_hypervelocitydriver_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="176" />
+      <ware ware="fusionbatteries" amount="23" />
+      <ware ware="siliconcarbide" amount="8" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_hypervelocitydriver_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="176" />
+      <ware ware="fusionbatteries" amount="23" />
+      <ware ware="siliconcarbide" amount="8" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_thumber_01']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="175" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_thumber_02']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="175" />
+      <ware ware="fusionbatteries" amount="21" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+</diff>

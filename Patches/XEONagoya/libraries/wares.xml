@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='ship_ter_xl_battleship_lc4_01_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="40420" />
+      <ware ware="metallicmicrolattice" amount="67381" />
+      <ware ware="siliconcarbide" amount="267" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='ship_ter_xl_battleship_lc4_01_a_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="40420" />
+      <ware ware="metallicmicrolattice" amount="67381" />
+      <ware ware="siliconcarbide" amount="267" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='ship_ter_xl_battleship_lc4_01_b_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="40420" />
+      <ware ware="metallicmicrolattice" amount="67381" />
+      <ware ware="siliconcarbide" amount="267" />
+    </primary>
+  </replace>
+</diff>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='ragnarok_asgard_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="122722" />
+      <ware ware="metallicmicrolattice" amount="129350" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='weapon_atf_xl_battleship_01_mk2_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="2238" />
+      <ware ware="energycells" amount="2840" />
+      <ware ware="fusionbatteries" amount="2031" />
+      <ware ware="siliconcarbide" amount="859" />
+    </primary>
+  </replace>
+</diff>

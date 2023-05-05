@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='ship_ps_ter_xl_carrier_01_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="61215" />
+      <ware ware="metallicmicrolattice" amount="59819" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='ship_ps_ter_s_fighter_01_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="1095" />
+      <ware ware="metallicmicrolattice" amount="1016" />
+    </primary>
+  </replace>
+</diff>

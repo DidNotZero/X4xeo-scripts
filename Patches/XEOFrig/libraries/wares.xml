@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='ship_lint_frigate_akita_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="16285" />
+      <ware ware="metallicmicrolattice" amount="9970" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='ship_lint_frigate_kitsune_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="18404" />
+      <ware ware="metallicmicrolattice" amount="11458" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='weapon_missile_lint_kitsune_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="369" />
+      <ware ware="energycells" amount="284" />
+      <ware ware="fusionbatteries" amount="273" />
+      <ware ware="siliconcarbide" amount="133" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='missile_lint_kitsune_01_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="17" />
+      <ware ware="siliconcarbide" amount="8" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='missile_lint_kitsune_02_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="284" />
+      <ware ware="fusionbatteries" amount="17" />
+      <ware ware="siliconcarbide" amount="11" />
+    </primary>
+  </replace>
+</diff>

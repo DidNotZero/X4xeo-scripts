@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='ship_sdp_frigate_triton']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="16392" />
+      <ware ware="metallicmicrolattice" amount="10714" />
+    </primary>
+  </replace>
+</diff>

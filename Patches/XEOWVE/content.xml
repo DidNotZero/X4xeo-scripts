@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content id="XEOWVE" name="X4 Economy Overhaul+Weapon Variation Expansion Patch" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" version="1" date="2023-04-21" save="0" enabled="1">
+  <dependency id="ws_2446450765" optional="true" name="X4 Economy Overhaul" />
+  <dependency id="ws_2482456803" optional="true" name="Weapon Variation Expansion" />
+  <text language="7" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="33" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="34" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="39" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="44" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="45" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="49" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="81" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="82" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="86" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+  <text language="88" name="XEOWVE" description="Changes the build materials of Weapon Variation Expansion weapons." author="sindsieecht" />
+</content>

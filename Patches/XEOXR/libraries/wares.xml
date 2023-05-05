@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='units_size_l_canteran_transporter_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="13461" />
+      <ware ware="metallicmicrolattice" amount="14235" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='units_size_l_canteran_dest_a_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="17741" />
+      <ware ware="metallicmicrolattice" amount="18699" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='units_size_l_canteran_liquid_a_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="5928" />
+      <ware ware="metallicmicrolattice" amount="6250" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='units_size_l_canteran_solid_a_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="5414" />
+      <ware ware="metallicmicrolattice" amount="5704" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='units_sucellus_mk1_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="27279" />
+      <ware ware="metallicmicrolattice" amount="28736" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='units_ter_size_xl_bat_a_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="61662" />
+      <ware ware="metallicmicrolattice" amount="64993" />
+    </primary>
+  </replace>
+</diff>

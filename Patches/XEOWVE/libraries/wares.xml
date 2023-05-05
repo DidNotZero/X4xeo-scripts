@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='turret_ter_l_plasma_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="18" />
+      <ware ware="energycells" amount="170" />
+      <ware ware="fusionbatteries" amount="42" />
+      <ware ware="siliconcarbide" amount="27" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_proton_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="36" />
+      <ware ware="energycells" amount="213" />
+      <ware ware="fusionbatteries" amount="42" />
+      <ware ware="siliconcarbide" amount="43" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_autocannon_01_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="99" />
+      <ware ware="fusionbatteries" amount="25" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_m_autocannon_02_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="12" />
+      <ware ware="energycells" amount="99" />
+      <ware ware="fusionbatteries" amount="25" />
+      <ware ware="siliconcarbide" amount="7" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='turret_ter_l_railgun_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="36" />
+      <ware ware="energycells" amount="270" />
+      <ware ware="fusionbatteries" amount="44" />
+      <ware ware="siliconcarbide" amount="47" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='weapon_ter_l_protoncannon_ware']/production[@method='default']/primary">
+    <primary>
+      <ware ware="aicores" amount="246" />
+      <ware ware="energycells" amount="312" />
+      <ware ware="fusionbatteries" amount="55" />
+      <ware ware="siliconcarbide" amount="89" />
+    </primary>
+  </replace>
+</diff>
