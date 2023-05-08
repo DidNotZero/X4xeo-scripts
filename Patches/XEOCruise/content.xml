@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content id="XEOCruise" name="X4 Economy Overhaul+Terran Cruisers Patch" description="Changes the build materials of Terran Cruisers." author="sindsieecht" version="1" date="2023-04-21" save="0" enabled="1">
+  <dependency id="ws_2446450765" optional="true" name="X4 Economy Overhaul" />
+  <dependency id="ws_2617043905" optional="true" name="Terran Cruisers (updated to 6.0)" />
+  <text language="7" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="33" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="34" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="39" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="44" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="45" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="49" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="81" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="82" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="86" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+  <text language="88" name="XEOCruise" description="Changes the build materials of Terran Cruisers." author="sindsieecht" />
+</content>

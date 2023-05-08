@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/wares/ware[@id='miyagi']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="34668" />
+      <ware ware="metallicmicrolattice" amount="29214" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='yamagata']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="42372" />
+      <ware ware="metallicmicrolattice" amount="35018" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='okayama']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="50932" />
+      <ware ware="metallicmicrolattice" amount="40821" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='kagawa']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="56817" />
+      <ware ware="metallicmicrolattice" amount="50790" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='nagano']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="42372" />
+      <ware ware="metallicmicrolattice" amount="35018" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='akita']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="34668" />
+      <ware ware="metallicmicrolattice" amount="29214" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='shizuoka']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="16585" />
+      <ware ware="metallicmicrolattice" amount="17459" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='yokohama']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="24268" />
+      <ware ware="metallicmicrolattice" amount="23858" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='scabbard']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="10700" />
+      <ware ware="metallicmicrolattice" amount="11904" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='aomori']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="14338" />
+      <ware ware="metallicmicrolattice" amount="15376" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='hakodate']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="17762" />
+      <ware ware="metallicmicrolattice" amount="17856" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='toyama']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="17762" />
+      <ware ware="metallicmicrolattice" amount="17856" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='fukuoka']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="32100" />
+      <ware ware="metallicmicrolattice" amount="24800" />
+    </primary>
+  </replace>
+  <replace sel="/wares/ware[@id='kumamoto']/production[@method='default']/primary">
+    <primary>
+      <ware ware="energycells" amount="19260" />
+      <ware ware="metallicmicrolattice" amount="20832" />
+    </primary>
+  </replace>
+</diff>
